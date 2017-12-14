@@ -10,6 +10,6 @@ Arcus miscellaneous code.
 * mrr : network latency checker
 * ngrinder : ngrinder test script sample 
 * test_java : Arcus java client text programs
-* test_shelf : miscellanuous tests  
+* test_shelf : miscellaneous tests  
 
 
